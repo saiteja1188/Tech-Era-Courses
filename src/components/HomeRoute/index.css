@@ -1,0 +1,54 @@
+.success-main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.success-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 90%;
+  padding: 0px 10px;
+}
+.success-heading {
+  font-family: roboto;
+  align-self: flex-start;
+}
+.success-list {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.failure-view {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.failure-img {
+  width: 400px;
+}
+
+.retry-button {
+  background-color: #4656a1;
+  padding: 8px 15px;
+  color: #ffffff;
+  font-family: roboto;
+  font-size: 18px;
+  font-weight: 500;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90%;
+}

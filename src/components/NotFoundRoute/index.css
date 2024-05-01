@@ -1,0 +1,11 @@
+.failure-view {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.failure-img {
+  width: 400px;
+}

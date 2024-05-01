@@ -1,0 +1,22 @@
+.card-list-item {
+  display: flex;
+  align-items: center;
+  width: 20%;
+  margin-bottom: 50px;
+}
+.card-img {
+  width: 60px;
+  margin-right: 10px;
+}
+.card-name {
+  font-family: roboto;
+  font-size: 24px;
+  font-weight: 500;
+  color: #1e293b;
+}
+
+.nav-link {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
